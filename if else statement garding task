@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+int a;
+printf("enter your marks\n");
+scanf("%d",&a);
+if(a>=85)
+{printf("your grade is 'A'\n");} 
+else if(a>=70)
+{printf("your grade is 'B'\n");}
+else if(a>=55)
+{printf("your grade is 'C'\n");}
+else if(a>=41)
+{printf("your grade is 'D'\n");}
+else if (a<=40)
+{printf("you have failed\n");}
+return 0;
+}
+
+
+
