@@ -13,7 +13,7 @@ else if(a>=55)
 else if(a>=41)
 {printf("your grade is 'D'\n");}
 else if (a<=40)
-{printf("you have failed\n");}
+{printf("your grade is 'F'\n");}
 return 0;
 }
 
