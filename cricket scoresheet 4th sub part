@@ -1,0 +1,10 @@
+void menu()
+{
+printf("\n\n\n\t\t\t\tmenu:\n");
+
+printf("\n\n\n1.new score sheet:\n");
+printf("\n\n\n2.view score sheet:\n");
+printf("\n\n\n3.exit\n");
+
+
+}
