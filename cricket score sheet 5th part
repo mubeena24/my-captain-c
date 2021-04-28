@@ -1,0 +1,8 @@
+void date();
+void printt();
+void filewrite();
+void fileopen(char);
+void lilitinlput(int);
+
+
+void newscoresheet()
